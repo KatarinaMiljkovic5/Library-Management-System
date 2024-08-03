@@ -1,0 +1,31 @@
+<div class="container">
+  <mat-card class="loginCard">
+    <p>Registruj se</p>
+    <form [formGroup]="form" (ngSubmit)="submitRegister()">
+      <input
+        class="inputLogin"
+        placeholder="Korisničko ime"
+        formControlName="username"
+        required
+      />
+      <input
+        class="inputLogin"
+        type="password"
+        placeholder="Lozinka"
+        formControlName="password"
+        required
+      />
+      <button mat-raised-button type="submit">Potvrdi</button>
+    </form>
+    <a
+        routerLink="/login"
+        style="
+          color: #482854;
+          padding-left: 20px;
+          cursor: pointer;
+          text-decoration: none;
+        "
+        >Imate nalog?</a
+      >
+  </mat-card>
+</div>

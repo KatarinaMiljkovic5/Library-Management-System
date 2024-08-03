@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "username": "Katarina",
+      "password": "Katarina123",
+      "id": "1"
+    },
+    {
+      "username": "Milica",
+      "password": "Milica123",
+      "id": "2"
+    },
+    {
+      "username": "Marko",
+      "password": "Marko123",
+      "id": "3"
+    },
+    {
+      "username": "Test",
+      "password": "123",
+      "id": "FWzatSc"
+    },
+    {
+      "username": "Mark",
+      "password": "Mark1",
+      "id": "ZRCPbhI"
+    },
+    {
+      "username": "Mica",
+      "password": "123",
+      "id": "tLoKCJC"
+    },
+    {
+      "id": "bfc9",
+      "username": "Milica ",
+      "password": "Milica123"
+    }
+  ],
+  "books": [
+    {
+      "title": "Jane Eyree",
+      "author": "Charlotte Bronte",
+      "publisher": "ALMA BOOKS",
+      "year": "1847",
+      "url": "https://m.media-amazon.com/images/I/41sOTGPO9uL._SY445_SX342_.jpg",
+      "id": "1"
+    },
+    {
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "publisher": "Richard Bentley",
+      "year": "1851",
+      "url": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781625584595/moby-dick-9781625584595_hr.jpg",
+      "id": "2"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "publisher": "Barnes & Noble Classics",
+      "year": "1818",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Frankenstein_poster_1931.jpg/640px-Frankenstein_poster_1931.jpg",
+      "id": "3"
+    },
+    {
+      "title": "Robison Crusoe",
+      "author": "Daniel Defoe",
+      "publisher": "William Taylor",
+      "year": "1719",
+      "url": "https://m.media-amazon.com/images/I/71GtN5h8lLL._AC_UF1000,1000_QL80_.jpg",
+      "id": "4"
+    },
+    {
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "publisher": "Roberts Brothers",
+      "year": "1868",
+      "url": "https://images.penguinrandomhouse.com/cover/9780593198025",
+      "id": "5"
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoyevsky",
+      "publisher": "The Russian Messenger",
+      "year": "1866",
+      "url": "https://m.media-amazon.com/images/I/71O2XIytdqL._AC_UF1000,1000_QL80_.jpg",
+      "id": "6"
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "Toltoy Leo",
+      "publisher": "Simon & Schuster",
+      "year": "1999",
+      "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601352433i/15823480.jpg",
+      "id": "7"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publisher": "J. B. Lippincott & Co.",
+      "year": "1960",
+      "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg",
+      "id": "8"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publisher": "Charles Scribner's Sons",
+      "year": "1925",
+      "url": "https://m.media-amazon.com/images/I/51jPo0RDFUL._SL500_.jpg",
+      "id": "9"
+    },
+    {
+      "title": "Invisible Man",
+      "author": "Ralph Ellison",
+      "publisher": "Random House",
+      "year": "1952",
+      "url": "https://m.media-amazon.com/images/I/81aUECLG01L._AC_UF1000,1000_QL80_.jpg",
+      "id": "10"
+    }
+  ]
+}
