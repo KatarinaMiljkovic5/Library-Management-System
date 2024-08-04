@@ -38,7 +38,7 @@ Setup Instructions
 npm install -g json-server
 2.Start JSON Server: Navigate to the project directory in the command prompt and start JSON Server with:
 json-server --watch data.json
-3.This will start the server and provide an API at http://localhost:3000.
+3.This will start the server ng serve
 
 Run the Application: Follow any additional instructions specific to the frontend or other components of the application.
 
